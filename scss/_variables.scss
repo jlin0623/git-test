@@ -1,0 +1,16 @@
+$breakpoints: (
+    sm: 480,
+    md: 760,
+    lg: 1024,
+    xl: 1260
+);
+$grid: 12;
+$colPadding: 15;
+
+$colors: (
+    primary: #06a8f3,
+    secondary: #ff7e05,
+    third: #fc032d,
+    light: #eee,
+    dark: #222
+);
